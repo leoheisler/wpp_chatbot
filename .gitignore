@@ -1,6 +1,6 @@
 # Ignorar dependências
 node_modules/
-
+media/
 # Ignorar informações de autenticação
 .wwebjs_auth/
 
